@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634752700 source:d:\patricia\fiap\ec\algoritmosaltaperformance\projetosaula\gs2021\main.cpp
+	<iostream>
+	<locale>
+	<stdlib.h>
+	"TipoFilaCoordenadas.h"
+	"TipoABB_Boia.h"
+
+1634752547 d:\patricia\fiap\ec\algoritmosaltaperformance\projetosaula\gs2021\tipofilacoordenadas.h
+	<cstring>
+
+1634752595 d:\patricia\fiap\ec\algoritmosaltaperformance\projetosaula\gs2021\tipoabb_boia.h
+

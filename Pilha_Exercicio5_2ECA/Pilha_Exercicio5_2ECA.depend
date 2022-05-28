@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1633435700 source:d:\patricia\fiap\ec\algoritmosaltaperformance\projetosaula\pilha_exercicio5_2eca\main.cpp
+	<iostream>
+	<cstring>
+	<locale>
+	"PilhaChar.h"
+
+1633434303 d:\patricia\fiap\ec\algoritmosaltaperformance\projetosaula\pilha_exercicio5_2eca\pilhachar.h
+	<stdlib.h>
+

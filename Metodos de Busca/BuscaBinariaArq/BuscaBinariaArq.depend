@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589413735 source:d:\patricia\codeblocks\buscabinariaarq\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1620677359 source:d:\patricia\fiap\ec\algoritmosaltaperformance\projetosaula\buscabinariaarq\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621879420 source:d:\patricia\codeblocks\ordena_bubblesort\main.cpp
+	<iostream>
+	<locale>
+	<stdio.h>
+	<stdlib.h>
+

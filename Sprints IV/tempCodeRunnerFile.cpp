@@ -1,0 +1,2 @@
+
+                        codigo[i] = (int)passwo
